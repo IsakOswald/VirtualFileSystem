@@ -6,9 +6,11 @@ This project is a **Virtual File System** designed to simulate how file systems 
 
 ## Features
 
-- Create, read, and delete virtual files and directories.
-- Simulate file system operations in a controlled environment.
-- Easy-to-use CLI interface for interacting with the virtual file system.
+- Multi-threading
+- Encryption
+- Persistence
+- Anti-debug mechanims
+- and more. 
 
 ## Installation and Setup
 
