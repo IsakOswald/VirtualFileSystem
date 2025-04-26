@@ -28,7 +28,7 @@ To set up, build, and run the project, follow the steps below:
 2. **cd to the created cloned repo.**
 
 3. Compile and run
-	**clang++ -o VirtualFileSystem *.cpp**, then:
+	clang++ -o VirtualFileSystem *.cpp, then:
 	**./VirtualFileSystem**
 
 Replace step 3 as neede (depending on your **compiler**)
