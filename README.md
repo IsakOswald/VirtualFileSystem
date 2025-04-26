@@ -31,7 +31,7 @@ To set up, build, and run the project, follow the steps below:
 	clang++ -o VirtualFileSystem *.cpp, then:
 	**./VirtualFileSystem**
 
-Replace step 3 as neede (depending on your **compiler**)
+Replace step 3 as needed (depending on your **compiler**)
 
 Enjoy.
 
